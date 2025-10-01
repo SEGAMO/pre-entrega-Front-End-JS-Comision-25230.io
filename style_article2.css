@@ -1,0 +1,20 @@
+.articulo2{
+    
+    box-shadow: 5px 10px 30px 10px;
+    padding: 5px;
+    margin: 10px;
+    
+}
+    
+#articulo2, img{
+    font-size: 10px bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+   
+}
+#articuloA{
+    display: flex; 
+}
+#articuloA img {
+    margin-left: 20px;
+}

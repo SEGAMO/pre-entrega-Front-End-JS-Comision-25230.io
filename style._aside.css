@@ -1,0 +1,42 @@
+aside {
+    width: 30%;
+    float: right;
+    background-color: #bbdce6;
+    padding: 0.5rem;
+    margin-left: 0;
+    border-left: 2px solid #070707;
+    flex: 1;
+    display: inline;
+    
+}
+aside li { 
+    text-decoration: none;
+    font-size: 25px;
+}   
+
+#asociate {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    display: inline-table;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid black;
+    background-image: url("/imag/sociofondo.png");
+    background-repeat: no-repeat;
+    background-color:aquamarine;
+    
+
+}
+#formulario {
+    margin-top: 100px;
+    align-items: center;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#enviar{
+    color: rgb(0, 0, 0);
+    display: flex;
+    font-size: 15px;
+    margin-left: 40%;
+}
