@@ -22,7 +22,7 @@ aside li {
     text-align: center;
     padding: 5px;
     border: 1px solid black;
-    background-image: url("/imag/sociofondo.png");
+    background-image: url("./imag/sociofondo.png");
     background-repeat: no-repeat;
     background-color:aquamarine;
     
